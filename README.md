@@ -2,7 +2,9 @@
  <div>
   <a href="https://github.com/gabrielbonni">
 </div>
-
+<div style="display: inline_block"><br>
+  <img align="right" alt="RHCP" src="https://media2.giphy.com/media/lTY0ZuOtzC1ULJXISJ/giphy.gif">
+</div>
   
   ##
  
